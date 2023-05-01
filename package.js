@@ -1,12 +1,12 @@
 Package.describe({
   name: "cultofcoders:persistent-session",
-  version: "0.4.5",
+  version: "0.5.0",
   summary: "Persistently store Session data on the client",
-  git: "https://github.com/cult-of-coders/meteor-persistent-session"
+  git: "https://github.com/DevCowboy/meteor-persistent-session"
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('0.9.1'),
+  api.versionsFrom('2.0.0'),
   api.use(['jquery', 'amplify', 'tracker', 'reactive-dict', 'session', 'underscore', 'ejson']);
   // If `accounts-base` is loaded, we have to make sure that this package is
   // loaded after `accounts-base` is, so we specify `weak: true` here

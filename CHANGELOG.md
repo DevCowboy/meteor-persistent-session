@@ -1,3 +1,7 @@
+### [0.5.0](https://github.com/DevCowboy/meteor-persistent-session/compare/v0.4.3...v0.4.4)
+
+
+
 ### Master [changes](https://github.com/okgrow/meteor-persistent-session/compare/v0.4.4...master)
 
 ### [0.4.4](https://github.com/okgrow/meteor-persistent-session/compare/v0.4.3...v0.4.4)
